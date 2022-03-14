@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Eric2610
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Eric2610/Eric2610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hola , me llamo Eric.
+Me interesa seguir aprendiendo HTML5 y CSS y en un  futuro aprender Java Script. Busco ayudar y colaborar en otros proyectos. Me pueden contactar via email: ericdavreux93@gmail.com
+Saludos!
