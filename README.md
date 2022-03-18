@@ -1,3 +1,3 @@
-Hola , me llamo Eric.
-Me interesa seguir aprendiendo HTML5 y CSS y en un  futuro aprender Java Script. Busco ayudar y colaborar en otros proyectos. Me pueden contactar via email: ericdavreux93@gmail.com
+Hola, me llamo Eric.
+Estoy interesado en el desarrollo web  front-end. Actualmente estoy aprendiendo HTML y CSS. Con ganas de seguir aprendiendo y poder particitar y  y colaborar con otros en sus proyectos.  También, estoy  haciendo mi porafolio , así que sean bienvenidos todos y vean mis proyectos.
 Saludos!
