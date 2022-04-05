@@ -1,3 +1,4 @@
-Hola, me llamo Eric.
-Estoy interesado en el desarrollo web  front-end. Actualmente estoy aprendiendo HTML y CSS. Con ganas de seguir aprendiendo y poder particitar y  y colaborar con otros en sus proyectos.  Sean bienvenidos y pasen a ver mis proyectos.
+Hola, me llamo Eric. 
+Hace un tiempo empecé a estuudiar  desarrollo  web. Hice unos cursos de HTML y CSS. Con ganas de seguir aprendiendo en el desarrollo front-end. Sean bienvenidos a ver mis proyecto.
+
 Saludos!
