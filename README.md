@@ -1,4 +1,2 @@
-Hola, me llamo Eric. 
-Hace un tiempo empecé a estuudiar  desarrollo  web. Hice unos cursos de HTML y CSS. Con ganas de seguir aprendiendo en el desarrollo front-end. Sean bienvenidos a ver mis proyecto.
-
-Saludos!
+Hello, my name is Eric.
+Some time ago I started to study programming, FRONT END. I have learned HTML 5 and CSS. I'm  currently learning Java Script. I hope you like my projects. Welcome to see my portfolio. 
